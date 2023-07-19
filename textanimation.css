@@ -108,14 +108,7 @@ h2 span:nth-child(20)
 {
   animation-delay: 3.8s;
 }
-h2 span:nth-child(21)
-{
-  animation-delay: 4s;
-}
-h2 span:nth-child(22)
-{
-  animation-delay: 4.2s;
-}
+
 @keyframes animate{
   0%, 80%
   {
